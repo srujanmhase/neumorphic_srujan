@@ -1,6 +1,8 @@
 # neumorphic_srujan
 
-Demo of neumorphic design
+
+Demo of simple podcast app with Neumorphic Design widgets in flutter
+[![Alt text](https://img.youtube.com/vi/9PAinoeeSJw/0.jpg)](https://www.youtube.com/watch?v=9PAinoeeSJw)
 
 ## Getting Started
 
